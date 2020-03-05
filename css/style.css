@@ -38,3 +38,8 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+#services-section ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
